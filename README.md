@@ -51,7 +51,8 @@
     }
     .section {
       margin-bottom: 40px;
-    }footer {
+    }
+    footer {
       background: linear-gradient(to bottom, #ffffff, #00b3b3);
       padding: 30px;
       color: #ffffff;
@@ -143,7 +144,9 @@
     }
     .tcbhg a:hover {
       text-decoration: underline;
-    }</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-RZG8MP5HRX"></script>
+    }
+  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RZG8MP5HRX"></script>
 </head>
 <body>
   <h1>Privacy Policy</h1>
@@ -188,30 +191,29 @@
   </ul>
   <p>We value your privacy and take your inquiries seriously. We will respond to your inquiries and requests in a timely manner and in accordance with applicable privacy laws.</p>
   <p>This Privacy Policy applies solely to the information collected by The Hub and does not cover any information collected by third-party sites or services. We encourage you to familiarize yourself with the privacy policies of such third parties when interacting with their platforms. As a startup hub, we are committed to continuously improving our privacy practices to provide you with a safe and trustworthy platform as we work towards our vision of becoming a leading destination for the community.</p>
-<footer><div class="footer-container">
-            <div class="box">
-                <p>Contact<br>Email: contact@thehub.com</p>
-            </div>
-  <div class="footer-container">
-    <div class="box"><div class="box">
-  <p>By using The Hub, you agree to our <a href="https://oavo33.github.io/termsancond/" style="color: pink;">Terms and conditions</a> and <a href="https://oavo33.github.io/policy/" style="color: pink;">Privacy Policy</a>. Please read them carefully before accessing or using our platform.</p>
-</div>
+  <footer>
+    <div class="footer-container">
+      <div class="box">
+        <p>Contact<br>Email: contact@thehub.com</p>
+      </div>
     </div>
-  </div>
-  <div class="footer-container">
-    <div class="box" onclick="window.location.href = 'https://oavo33.github.io/GitHubz/';">
-      <h3>What Do You Think About Our Community Hub?</h3>
+    <div class="footer-container">
+      <div class="box">
+        <p>By using The Hub, you agree to our <a href="https://oavo33.github.io/termsancond/" style="color: pink;">Terms and conditions</a> and <a href="https://oavo33.github.io/policy/" style="color: pink;">Privacy Policy</a>. Please read them carefully before accessing or using our platform.</p>
+      </div>
+    </div><div class="footer-container">
+      <div class="box" onclick="window.location.href = 'https://oavo33.github.io/GitHubz/';">
+        <h3>What Do You Think About Our Community Hub?</h3>
+      </div></div>
+    <div class="box">
+      <a href="#">
+        <img src="https://img.icons8.com/office/30/FF0000/youtube.png" alt="YouTube">
+      </a>
+      <a href="#">
+        <img src="https://img.icons8.com/office/30/FF0000/facebook-new.png" alt="Facebook">
+      </a>
     </div>
-    
-  </div>
-  <div class="box">
-        <a href="#">
-          <img src="https://img.icons8.com/office/30/FF0000/youtube.png" alt="YouTube">
-        </a>
-        <a href="#">
-          <img src="https://img.icons8.com/office/30/FF0000/facebook-new.png" alt="Facebook">
-        </a>
-      </div><div class="footer-container">
+    <div class="footer-container">
       <div class="box back-to-top" onclick="scrollToTop()">To The Top</div>
     </div>
     <div class="footer-container">
@@ -222,11 +224,10 @@
         <a href="https://example.com/guide-to-copywriting" style="color: pink;">The Community Business Hub's Guide To Copywriting</a>
       </p>
     </div>
-  </footer><script>
+  </footer>
+  <script>
     function scrollToTop() {
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        }
-    </script>
-</body>
-
-</html>
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
+</body></html>
