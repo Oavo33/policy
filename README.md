@@ -51,8 +51,95 @@
     }
     .section {
       margin-bottom: 40px;
-    }
-  </style>
+    }footer {
+  background: linear-gradient(to bottom, #ffffff, #00b3b3);
+  padding: 30px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+}
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.footer-container .box {
+  background-color: #00b3b3;
+  color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  padding: 4px;
+  text-align: center;
+  margin: 7px auto; }
+.footer-container .box h3 {
+  font-size: 14px;
+  margin: 0; 
+  padding: 7px 0; 
+  color: #ffffff;
+}
+.footer-container .box p {
+  font-size: 14px;
+  margin: 0; 
+  padding: 7px 0;
+  color: #ffffff;
+}
+.footer-container .box:first-child {
+  border: 1px solid #ffffff;
+}
+.footer-container .box:last-child {
+  border: 1px solid #ffffff;
+}.social {
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .social a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+        .social a img {
+            width: 30px;
+            height: 30px;
+            background: none;
+            transition: all 0.3s ease;
+        }
+        .social a span {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            margin-top: 5px;
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px;
+            font-weight: bold;color: #00b3b3;
+            white-space: nowrap;
+        }
+        .social a:hover img {
+            width: 40px;
+            height: 40px;
+        }
+        .social a:hover span {
+            display: block;
+        }
+.tcbhg {
+  text-align: center;
+  margin-top: 7px;
+}
+.tcbhg a {
+  color: #00b3b3;text-decoration: none;
+}
+.tcbhg a:hover {
+  text-decoration: underline;
+}</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-RZG8MP5HRX"></script>
 </head>
 <body>
   <h1>Privacy Policy</h1>
@@ -97,5 +184,38 @@
   </ul>
   <p>We value your privacy and take your inquiries seriously. We will respond to your inquiries and requests in a timely manner and in accordance with applicable privacy laws.</p>
   <p>This Privacy Policy applies solely to the information collected by The Hub and does not cover any information collected by third-party sites or services. We encourage you to familiarize yourself with the privacy policies of such third parties when interacting with their platforms. As a startup hub, we are committed to continuously improving our privacy practices to provide you with a safe and trustworthy platform as we work towards our vision of becoming a leading destination for the community.</p>
+<footer>
+  <div class="footer-container">
+    <div class="box"><p>Contact The Team <br>Email: contact@thehub.com</p></div>
+    <div class="box"><p>By using The Hub, you agree to our <a href="#" style="color: pink;">Terms and conditions</a> and <a href="#" style="color: pink;">Privacy Policy</a>. Please read them carefully before accessing or using our platform.</p>
+    </div></div>
+  <div class="footer-container">
+    <div class="box" onclick="window.location.href = 'https://oavo33.github.io/GitHubz/';">
+      <h3>What Do You Think About Our Community Hub?</h3>
+    </div>
+    </div>
+  <div class="box"><a href="#">
+          <img src="https://img.icons8.com/office/30/FF0000/youtube.png" alt="YouTube">
+        </a>
+        <a href="#">
+          <img src="https://img.icons8.com/office/30/FF0000/facebook-new.png" alt="Facebook">
+        </a>
+      </div><div class="footer-container">
+      <div class="box back-to-top" onclick="scrollToTop()">To The Top</div>
+    </div>
+    <div class="footer-container">
+      <p>&copy; 2023 Lofties. All rights reserved.</p>
+    </div>
+    <div class="tcbhg">
+      <p>
+        <a href="https://example.com/guide-to-copywriting" style="color: pink;">The Community Business Hub's Guide To Copywriting</a>
+      </p>
+    </div>
+  </footer><script>
+    function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
 </body>
+
 </html>
