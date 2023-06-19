@@ -184,7 +184,11 @@
   </ul>
   <p>We value your privacy and take your inquiries seriously. We will respond to your inquiries and requests in a timely manner and in accordance with applicable privacy laws.</p>
   <p>This Privacy Policy applies solely to the information collected by The Hub and does not cover any information collected by third-party sites or services. We encourage you to familiarize yourself with the privacy policies of such third parties when interacting with their platforms. As a startup hub, we are committed to continuously improving our privacy practices to provide you with a safe and trustworthy platform as we work towards our vision of becoming a leading destination for the community.</p>
-<footer>
+<footer><div class="footer-container">
+            <div class="box">
+                <h3>Contact</h3>
+                <p>Email: contact@thehub.com</p>
+            </div>
   <div class="footer-container">
     <div class="box"><div class="box">
   <p>By using The Hub, you agree to our <a href="https://oavo33.github.io/termsancond/" style="color: pink;">Terms and conditions</a> and <a href="https://oavo33.github.io/policy/" style="color: pink;">Privacy Policy</a>. Please read them carefully before accessing or using our platform.</p>
