@@ -190,8 +190,7 @@
   <p>This Privacy Policy applies solely to the information collected by The Hub and does not cover any information collected by third-party sites or services. We encourage you to familiarize yourself with the privacy policies of such third parties when interacting with their platforms. As a startup hub, we are committed to continuously improving our privacy practices to provide you with a safe and trustworthy platform as we work towards our vision of becoming a leading destination for the community.</p>
 <footer><div class="footer-container">
             <div class="box">
-                <h3>Contact</h3>
-                <p>Email: contact@thehub.com</p>
+                <p>Contact<br>Email: contact@thehub.com</p>
             </div>
   <div class="footer-container">
     <div class="box"><div class="box">
